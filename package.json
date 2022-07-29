@@ -28,8 +28,8 @@
     "node": ">=16.0.0"
   },
   "keywords": [
-    "turtle",
-    "tab management",
+    "template generation",
+    "file generation",
     "intellibus",
     "open source universe"
   ],
