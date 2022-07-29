@@ -26,6 +26,7 @@
 - Custom Template Syntax `Planned`
 - Generate Form from Template File `Planned`
 - Fill Template Form using data in a BigParser Grid `Planned`
+- Fill Multiple Templates at once using a `fabricators` BigParser Grid `Planned`
 
 ## Install 🛠
 
