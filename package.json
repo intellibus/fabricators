@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "fabricators",
-  "version": "1.0.33",
+  "version": "1.0.34",
   "description": "Create And Modify Files From Templates Or Grids",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
