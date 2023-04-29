@@ -23,8 +23,8 @@ devDependencies:
     specifier: 10.0.3
     version: 10.0.3(semantic-release@21.0.2)
   '@semantic-release/release-notes-generator':
-    specifier: 10.0.3
-    version: 10.0.3(semantic-release@21.0.2)
+    specifier: 11.0.1
+    version: 11.0.1(semantic-release@21.0.2)
   '@tsconfig/node16':
     specifier: 1.0.3
     version: 1.0.3
@@ -865,27 +865,6 @@ packages:
       semantic-release: 21.0.2
       semver: 7.5.0
       tempy: 3.0.0
-    dev: true
-
-  /@semantic-release/release-notes-generator@10.0.3(semantic-release@21.0.2):
-    resolution: {integrity: sha512-k4x4VhIKneOWoBGHkx0qZogNjCldLPRiAjnIpMnlUh6PtaWXp/T+C9U7/TaNDDtgDa5HMbHl4WlREdxHio6/3w==}
-    engines: {node: '>=14.17'}
-    peerDependencies:
-      semantic-release: '>=18.0.0-beta.1'
-    dependencies:
-      conventional-changelog-angular: 5.0.13
-      conventional-changelog-writer: 5.0.1
-      conventional-commits-filter: 2.0.7
-      conventional-commits-parser: 3.2.4
-      debug: 4.3.4
-      get-stream: 6.0.1
-      import-from: 4.0.0
-      into-stream: 6.0.0
-      lodash: 4.17.21
-      read-pkg-up: 7.0.1
-      semantic-release: 21.0.2
-    transitivePeerDependencies:
-      - supports-color
     dev: true
 
   /@semantic-release/release-notes-generator@11.0.1(semantic-release@21.0.2):
@@ -3184,14 +3163,6 @@ packages:
       get-intrinsic: 1.2.0
       has: 1.0.3
       side-channel: 1.0.4
-    dev: true
-
-  /into-stream@6.0.0:
-    resolution: {integrity: sha512-XHbaOAvP+uFKUFsOgoNPRjLkwB+I22JFPFe5OjTkQ0nwgj6+pSjb4NmB6VMxaPshLiOf+zcpOCBQuLwC1KHhZA==}
-    engines: {node: '>=10'}
-    dependencies:
-      from2: 2.3.0
-      p-is-promise: 3.0.0
     dev: true
 
   /into-stream@7.0.0:
